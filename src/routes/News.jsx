@@ -1,10 +1,10 @@
 import { NewsStyle } from "../css/NewsStyle";
-import Imagem1 from "../assets/images/Image1.png";
-import Imagem2 from "../assets/images/Image2.png";
-import Imagem3 from "../assets/images/Image3.png";
-import Imagem4 from "../assets/images/Image4.png";
-import Imagem5 from "../assets/images/Image5.png";
-import Imagem6 from "../assets/images/Image6.png";
+import Imagem1 from "../assets/images/image1.png";
+import Imagem2 from "../assets/images/image2.png";
+import Imagem3 from "../assets/images/image3.png";
+import Imagem4 from "../assets/images/image4.png";
+import Imagem5 from "../assets/images/image5.png";
+import Imagem6 from "../assets/images/image6.png";
 
 const newsItems = [
   {
